@@ -1,0 +1,39 @@
+header {
+  background-color: #443314;
+  color: white;
+  padding: 0.5em;
+  text-align: center; }
+
+h1 {
+  font-family: 'Righteous', 'Vollkorn SC', serif;
+  font-size: 1.5em;
+  margin: 10px; }
+  @media screen and (min-width: 370px) {
+    h1 {
+      font-size: 2.5em; } }
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em; }
+
+.guessBtn {
+  background-color: #443f14; }
+  .guessBtn:hover {
+    background-color: #142844; }
+
+.coinImg {
+  width: 100%; }
+
+.tracker {
+  display: inline-block; }
+
+.question {
+  opacity: 1; }
+
+.head {
+  opacity: 0; }
+
+.tail {
+  opacity: 0; }
+
+/*# sourceMappingURL=style.css.map */
